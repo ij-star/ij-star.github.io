@@ -1,14 +1,20 @@
-# Canon.com/ijsetup - Setting Up Canon IJ Printer With USB 
+#############
+Canon.com/ijsetup - Setting Up Canon IJ Printer With USB 
+#############
 
-
-#3 
-Get Started Here
-
+.. image:: Get-Started.png   
+	  :width: 350px    
+	  :align: center    
+	  :height: 100px    
+	  :alt: Canon.Com/ijsetup
+	  :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+	
 
 Canon printers are one of the best in as per current users demand. Canon Printer Drivers regulates the printer and transforms the data into a format that a printer can easily understand. To set up your canon printer, you can visit the ij.start canon. and download the appropriate printer drivers, manual and guide for your printing device. It provides you a platform on which you can look up for your product and then download the appropriate software recommended by Canon.
 
-## Install Canon Printer - Canon.com/ijsetup 
-
+#############
+Install Canon Printer - Canon.com/ijsetup 
+#############
 
 1. Open and start the printer and find the WPS button on the Wi-Fi router.
 2. From the canon.com/ijsetup on your MAC, download printer drivers for Mac.
@@ -20,8 +26,9 @@ Canon printers are one of the best in as per current users demand. Canon Printer
 
 
 
-## Things To Do Before Canon Printer Setup 
-
+#############
+Things To Do Before Canon Printer Setup 
+#############
 
 1. In case you have an old Printer Installed, then you are advised to remove Old Printer Drivers & App to avoid any issue.
 2. You need to disconnect the Old Printer with the Router.
@@ -31,8 +38,9 @@ Canon printers are one of the best in as per current users demand. Canon Printer
 
 
 
-## Setting Up Canon IJ Printer With USB –
-
+#############
+Setting Up Canon IJ Printer With USB –
+#############
 
 1. Make sure you have a USB cable.
 2. From the web browser, go to the ij.start canon site and choose to set up a network connection via USB.
